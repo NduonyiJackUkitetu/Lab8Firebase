@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab8Firebase</string>
+    <string name="add_task">Add task</string>
+    <string name="enter_task">enter task</string>
+</resources>
